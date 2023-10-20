@@ -22,6 +22,4 @@ public class SumNumbersTests {
     assertEquals(requiredResult, sumNumbers.sumNumbers(sumNumbersData));
   }
 
-
-
 }

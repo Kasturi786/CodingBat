@@ -19,8 +19,6 @@ public class CanBalanceTests {
                          {1, 2, 3, 1, 0, 1, 3}, {1} };
 }
 
-
-
   @BeforeEach
   public void setUp() {
     canBalance = new CanBalance();
@@ -41,7 +39,5 @@ public class CanBalanceTests {
 
     assertEquals(false, canBalance.canBalance(nonSplitData) );
   }
-
-
 
 }
