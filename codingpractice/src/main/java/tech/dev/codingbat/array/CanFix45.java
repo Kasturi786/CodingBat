@@ -67,5 +67,4 @@ public class CanFix45 {
    return nums;
  }
 
-
 }
